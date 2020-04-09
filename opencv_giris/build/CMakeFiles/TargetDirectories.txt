@@ -1,0 +1,3 @@
+/home/enes/Desktop/opencv_giris/build/CMakeFiles/rebuild_cache.dir
+/home/enes/Desktop/opencv_giris/build/CMakeFiles/opencv_giris.dir
+/home/enes/Desktop/opencv_giris/build/CMakeFiles/edit_cache.dir

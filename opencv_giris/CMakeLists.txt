@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( opencv_giris )
+find_package( OpenCV REQUIRED )
+add_executable( opencv_giris opencv_1.cpp )
+target_link_libraries( opencv_giris ${OpenCV_LIBS} )
